@@ -1,0 +1,9 @@
+{
+    "name": "erick/exemplo-de-estrutura-de-dados",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "require": {}
+}
